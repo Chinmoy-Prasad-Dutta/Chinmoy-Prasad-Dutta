@@ -1,5 +1,5 @@
 # Readme
-<h1 align="center">Hi 👋, I'm Chinmoy DUtta</h1>
+<h1 align="center">Hi 👋, I'm Chinmoy Dutta</h1>
 <h3 align="center">A Self-Learned Data Analyst & Python Enthusiast!</h3>
 
 - 🔭 I’m currently working on **Andrew NG's Machine Learning**
