@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chinmoy-Prasad-Dutta&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmoy-Prasad-Dutta&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoy-Prasad-Dutta&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ✍️ Roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6484831c87dba4077125bc2c?variant=light&roadmaps=ai-data-scientist%2Csql%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
